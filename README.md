@@ -3,14 +3,15 @@
 <!-- PIPELINE -->
 <br />
 <div align="center">
-  <object data="F2.pdf" alt="pipeline" type="application/pdf">
-  </object>
-
+  <a>
+    <embed src="https://github.com/the-anonymous-bs/AMIslides_biasing/blob/main/F2.pdf" alt="pipeline">
+  </a>
   <h3 align="center">Visual-grounded Contextual ASR Pipeline</h3>
   </p>
 </div>
 
 ### Contents:
+
 
 `Biasing_list/` Directory containing biasing lists for each meeting series. Meetings series are represented using the common prefix, e.g. the ES2011 biasing list is for ES2011a-ES2011d, and IB40 biasing list is used for IB4001, IB4002, IB4003, IB4004, IB4010, IB4011. 
 
