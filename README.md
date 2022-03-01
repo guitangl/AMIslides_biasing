@@ -3,14 +3,12 @@
 <!-- PIPELINE -->
 <br />
 <div align="center">
-  <a>
-    <img src="F2.pdf" alt="pipeline" width="80" height="80">
-  </a>
+  <object data="F2.pdf" alt="pipeline" type="application/pdf">
+  </object>
 
   <h3 align="center">Visual-grounded Contextual ASR Pipeline</h3>
   </p>
 </div>
-
 
 ### Contents:
 
