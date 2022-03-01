@@ -1,0 +1,15 @@
+Project Method
+
+e Functional design
+— Individual work
+— Meeting
+
+e Conceptual design
+— Individual work
+— Meeting
+
+e Detailed design
+— Individual work
+— Meeting
+
+ 

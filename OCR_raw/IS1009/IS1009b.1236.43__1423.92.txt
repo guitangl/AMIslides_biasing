@@ -1,0 +1,26 @@
+there should be switch
+onoff
+button
+there should be somet timerto oset tfory viewing gra particulat
+there should be a child flock ksystem
+1functional design
+purpose
+to control the
+television
+function
+using
+remote
+different functionalities an thet television
+it should be compact
+using of plactic for
+making the fremote
+prograamme or switching onoff according
+to the user
+itshould bein the shape
+ofat alphabet for
+more
+compactibility
+thereshould be signal tor a led which can be used to pchange
+method
+real
+reaction

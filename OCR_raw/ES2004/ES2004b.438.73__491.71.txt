@@ -1,0 +1,12 @@
+wire
+switch
+energy source
+bulb
+infrared
+bulb
+chip
+subcomponent
+interface
+irdata
+real reaction
+receiver

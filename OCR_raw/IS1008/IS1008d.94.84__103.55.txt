@@ -1,0 +1,10 @@
+lm latsla(esy
+
+e Excel sheet
+— Calculate production costs
+
+— Are the cost under 12.50 euro?
+e No: redesign
+e Yes: project evaluation (next slide)
+
+ 
