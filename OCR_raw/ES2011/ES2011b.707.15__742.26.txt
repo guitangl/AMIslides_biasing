@@ -1,0 +1,23 @@
+Basic Remote Control Design
+
+Buzzer or LED
+
+Receiver
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Infrared bulb
+
+ 
+
+x Real Reaction

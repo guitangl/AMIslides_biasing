@@ -1,0 +1,10 @@
+buttons
+chip
+bulbs
+infrared
+bulbs
+wires
+batterypower
+suppy
+components
+real reaction

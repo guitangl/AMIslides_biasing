@@ -1,0 +1,10 @@
+diode
+battery
+transistor
+resonator
+circuit board
+a
+rechargeable
+specification
+components
+real reaction

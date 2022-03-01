@@ -1,0 +1,11 @@
+SHARED
+FOLDER
+
+icrasaft
+werPoint
+
+=
+
+putty
+
+ 
