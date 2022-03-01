@@ -1,0 +1,17 @@
+Personal Preferences
+
+e Battery (energy source)
+
+e Button pad (input)
+
+e Chip (processor)
+
+e IR transmitter (communicate to TV)
+
+e Radio receiver (for locator function)
+
+e Buzzer or LED (output for locator function)
+
+e Radio sender (on TV, for locator function)
+
+Real Reaction
